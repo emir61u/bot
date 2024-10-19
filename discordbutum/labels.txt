@@ -1,0 +1,4 @@
+0 pil atik kutusu
+1 plastik atik kutusu
+2 cam atik kutusu
+3 kağıt atik kutusu
